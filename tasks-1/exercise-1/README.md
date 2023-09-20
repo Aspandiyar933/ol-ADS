@@ -1,6 +1,6 @@
 # exercise-1
 
-# Give a input two digits and output sum 
+# Give an input two digits and output sum 
 
 # Input 
 
